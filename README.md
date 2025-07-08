@@ -20,7 +20,3 @@ With a strong ability to navigate through the entire project development cycle, 
 - Demonstrated proficiency in database management and optimization with both SQL and NoSQL databases.
 - Applied best practices in software development, including Agile methodologies and Test-Driven Development.
 - Continuously improved codebases through refactoring and by covering code with unit tests.
-## Contact
-- **Email**: [andrii.milovich@meduzzen.com]
-- **LinkedIn**: [https://www.linkedin.com/in/masterdev/]
-- **GitHub**: [https://github.com/AndrewMilovich]
